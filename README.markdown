@@ -1,0 +1,1 @@
+Showoff slides about RVM presented at #budapest.rb, 4/15/2010 @ Colabs in Budapest, Hungary.
