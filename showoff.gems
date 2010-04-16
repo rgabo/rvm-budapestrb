@@ -1,0 +1,7 @@
+# showoff.gems generated gem export file. Note that any env variable settings will be missing. Append these after using a ';' field separator
+bluecloth -v2.0.7
+gli -v1.1.0
+mg -v0.0.8
+rack -v1.1.0
+showoff -v0.1.4
+sinatra -v1.0
